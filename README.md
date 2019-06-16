@@ -9,7 +9,7 @@
 **Language Used**
 
  -  C Programming
-
+---
  
  **Operations that can be performed are : **
  
@@ -19,7 +19,7 @@
 - Issue Books
 - View Book List
 - Edit Book's Record
- --
+ ---
  
 ##### Note : This project may contain some libraries that uses the windows console. So maynot run on Linux.
 
